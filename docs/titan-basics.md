@@ -187,14 +187,15 @@ data.
 Connecting a Monitor
 --------------------
 
-You can connect an additional monitor to the console (2 monitors on
-Sapphire Touch). This gives you extra screen space for workspace windows
+You can connect an additional monitor to the console (2 additional monitors on
+Sapphire Touch and Titan PC Suite). This gives you extra screen space for workspace windows
 which can be handy for showing Visualiser or additional buttons. Touch
 monitors are very useful to give additional control surfaces. We advise
 you use a monitor compatible with Windows Touch to avoid problems with
 touchscreen drivers. 
 
-Titan PC Suite (Titan Mobile, Titan Go, Titan Simulator) will also support 2 monitors if the PC
+Titan PC Suite (Titan Mobile, Titan Go, Titan Simulator) will support 2 
+"external" monitors making a total of 3 screens, if the PC
 you are using has the facility.
 
 An external monitor is disabled by default and will show a \'disabled\'

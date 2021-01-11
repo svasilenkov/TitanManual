@@ -10,8 +10,10 @@ Touch can have two external displays, all other consoles can have one.
 You can use touch screens, we advise using Windows Touch compatible
 monitors to avoid driver issues.
 
-For Titan PC Suite (Titan Mobile, Titan Go, Titan Simulator) you can connect whichever
-external displays your computer will support.
+For Titan PC Suite (Titan Mobile, Titan Go, Titan Simulator) the software
+supports up to three displays, two of which can be enabled and disabled
+using the "External Display" options. Obviously this also depends on how many
+displays your computer will support.
 
 An external display is disabled by default and will show a \'disabled\'
 message. To enable, go to the **System** menu (press \<Avo\> + \<Disk\>) and select \[Display Setup\]
